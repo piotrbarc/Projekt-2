@@ -25,5 +25,11 @@ button
     text-align: center;
    
 }
-
+label
+{
+    color :black;
+    font-size : 40px;
+    margin-left: 400px;
+    
+}
 
